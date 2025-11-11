@@ -1,2 +1,14 @@
 ![header](github-header-banner.png)
+# 💫 About Me:
+### 👩‍💻 Sobre Mim:<br><br>* 🔭 **No que estou trabalhando atualmente:** Projeto Front-end **music-dot**, desenvolvendo com HTML, CSS e iniciando JavaScript.<br>* 🧑‍🤝‍🧑 **No que estou buscando colaborar:** Projetos de Análise de Dados ou Protótipos UI/UX para aplicar **Power BI ou Python**.<br>* 💛 **No que estou buscando ajuda:** Melhores práticas em JavaScript e orientação a objetos (POO).<br>* 🌱 **O que estou aprendendo atualmente:** JavaScript e aprofundamento em Engenharia de Software.<br>* 💬 **Me pergunte sobre:** Power BI (DAX, KPIs), Python para Análise de Dados e Fundamentos de Programação em C/C++.<br>* ⚡ **Fato curioso:** Tenho 3 anos de experiência em **Gestão de Processos**, usando a mesma lógica estrutural que hoje aplico ao código!
+
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=guimaraesleticia700-boop&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=guimaraesleticia700-boop&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraesleticia700-boop&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
