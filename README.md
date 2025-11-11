@@ -1,2 +1,2 @@
-![header](nome_da_sua_imagem.png)
+![header](github-header-banner.png)
 
